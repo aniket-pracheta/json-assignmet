@@ -1,0 +1,10 @@
+<Alloy>
+	<Window class="container">
+		<ListView>
+		<ListSection id="listsection">
+			<ListItem title="hii"></ListItem>
+		</ListSection>
+</ListView>
+			
+	</Window>
+</Alloy>

@@ -1,0 +1,5 @@
+<Alloy>
+	<View class="container">
+		<ListItem id="item1"></ListItem>
+	</View>
+</Alloy>
